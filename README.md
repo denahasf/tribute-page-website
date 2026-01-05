@@ -1,4 +1,3 @@
-# tribute-page-website
 # Tribute Page Website
 
 A responsive tribute page website built using HTML and CSS.
